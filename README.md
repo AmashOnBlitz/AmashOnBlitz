@@ -30,7 +30,6 @@ A basic C++ tool to convert Celsius to Fahrenheit and vice versa.
 
 ## 🔗 Connect with me:
 - [GitHub](https://github.com/AmashOnBlitz)
-- [LinkedIn](https://www.linkedin.com/in/amash-shafi-jami) *(If you have a LinkedIn profile, you can add it here)*
 
 ---
 
