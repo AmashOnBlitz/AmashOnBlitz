@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Amash **!  
+# Hi there 👋, I'm **Amash**!  
 > Passionate about coding, ethical hacking, and learning new technologies. Currently exploring **Flutter**, **C++**, **Python**, and **AI**. I am fond of **Kali Linux** and enjoy building tools and projects.
 
 ## 🚀 About Me
