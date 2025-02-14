@@ -1,4 +1,3 @@
-# AmashOnBlitz
 # Hi there 👋, I'm **Amash **!  
 > Passionate about coding, ethical hacking, and learning new technologies. Currently exploring **Flutter**, **C++**, **Python**, and **AI**. I am fond of **Kali Linux** and enjoy building tools and projects.
 
@@ -27,6 +26,12 @@ A basic C++ tool to convert Celsius to Fahrenheit and vice versa.
 - **Flutter** for mobile apps
 - **C++** and **Python** for coding and building more tools
 - **AI** for smarter and more efficient applications
+
+## 🔧 Technologies and Tools I Use:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=flat&logo=artificial-intelligence&logoColor=white)
 
 ## 🔗 Connect with me:
 - [GitHub](https://github.com/AmashOnBlitz)
