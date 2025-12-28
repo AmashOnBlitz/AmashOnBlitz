@@ -27,7 +27,8 @@ Not NASA‑level stuff (yet 😄), but clean, practical, and well‑engineered s
 
 ### 🎮 Game & Tooling
 - **Unity (C#)**
-
+- **Win32 API**
+  
 ---
 
 ## 🔐 Interests & Focus Areas
