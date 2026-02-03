@@ -34,14 +34,6 @@ Not NASA‑level stuff (yet 😄), but clean, practical, and well‑engineered s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmashOnBlitz&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmashOnBlitz&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AmashOnBlitz&theme=radical" />
 </p>
 
