@@ -42,6 +42,8 @@ Not NASA‑level stuff (yet 😄), but clean, practical, and well‑engineered s
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amashonblitz&label=Profile%20views&color=0e75b6&style=flat" alt="amashonblitz" /> </p>
+
 ---
 
 ## 🔐 Interests & Focus Areas
