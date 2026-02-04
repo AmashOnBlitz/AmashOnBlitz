@@ -40,8 +40,11 @@ Not NASA‑level stuff (yet 😄), but clean, practical, and well‑engineered s
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmashOnBlitz&theme=react-dark" />
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amashonblitz&show_icons=true&locale=en&layout=compact" alt="amashonblitz" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amashonblitz" alt="amashonblitz" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amashonblitz&show_icons=true&locale=en" alt="amashonblitz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amashonblitz&" alt="amashonblitz" /></p>
 
 ---
 
