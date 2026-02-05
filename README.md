@@ -37,6 +37,8 @@ Not NASA‑level stuff (yet 😄), but clean, practical, and well‑engineered s
   <img src="https://streak-stats.demolab.com?user=AmashOnBlitz&theme=radical" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=AmashOnBlitz&color=blue)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmashOnBlitz&theme=react-dark" />
 </p>
