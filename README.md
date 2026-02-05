@@ -37,8 +37,6 @@ Not NASA‑level stuff (yet 😄), but clean, practical, and well‑engineered s
   <img src="https://streak-stats.demolab.com?user=AmashOnBlitz&theme=radical" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=AmashOnBlitz&color=blue)
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmashOnBlitz&theme=react-dark" />
 </p>
@@ -57,6 +55,7 @@ Not NASA‑level stuff (yet 😄), but clean, practical, and well‑engineered s
 ---
 
 ⚡ I enjoy digging **under the hood**, understanding how systems *really* work, and turning that knowledge into **real, functional tools**.
+![Profile views](https://komarev.com/ghpvc/?username=AmashOnBlitz&color=blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AmashOnBlitz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:starsdewy@gmail.com) 
