@@ -5,7 +5,7 @@ Also learning Win32 API means **less relying** on heavy frameworks like **QT** o
 
 Right now building small apps with Win32 And D2D for understanding it!
 
-Open to collaborate🤝 over making C++ projects, espacially small-mid level apps or tools.
+Open to collaborate over making C++ projects, espacially small-mid level apps or tools.
 
 ---
   
@@ -46,11 +46,5 @@ Open to collaborate🤝 over making C++ projects, espacially small-mid level app
    
 ## 🌐Social Handles
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AmashOnBlitz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:starsdewy@gmail.com) 
-
----
-    
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I%20would%20prefer%202%20lines%20of%20clean%20and%20structured%20code%20that%20people%20mistake%20for%20AI%20over%2020%20lines%20of%20messy%20code.&author=Myself)
-  
-**For Those Wondering**, Not a single word here is written by AI!
 
 ---
