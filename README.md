@@ -5,7 +5,7 @@ Also learning Win32 API means **less relying** on heavy frameworks like **QT** o
 
 Right now building small apps with Win32 And D2D for understanding it!
 
-Open to collaborate over making C++ projects, espacially small-mid level apps or tools.
+Open to collaborate over making C++ projects, espacially small-mid level apps or tools.  
 Web → [bytevite.com](https://bytevite.com)
 
 ---
